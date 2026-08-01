@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
