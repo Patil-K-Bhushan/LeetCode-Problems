@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
