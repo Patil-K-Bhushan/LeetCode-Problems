@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
