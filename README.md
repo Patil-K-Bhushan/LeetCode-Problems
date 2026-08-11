@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -72,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
