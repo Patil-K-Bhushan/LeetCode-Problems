@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
