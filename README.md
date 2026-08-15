@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
