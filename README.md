@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [1922-count-good-numbers](https://github.com/Patil-K-Bhushan/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
